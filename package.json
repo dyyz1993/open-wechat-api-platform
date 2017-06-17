@@ -27,7 +27,7 @@
     "name": "Jackson Tian"
   },
   "bugs": {
-    "url": "https://github.com/jack118104/wechat-platform/issues"
+    "url": "https://github.com/dyyz1993/open-wechat-api-platform/issues"
   },
   "bundleDependencies": false,
   "config": {
@@ -62,7 +62,7 @@
     "index.js",
     "platform"
   ],
-  "homepage": "https://github.com/jack118104/wechat-platform#readme",
+  "homepage": "https://github.com/dyyz1993/open-wechat-api-platform#readme",
   "keywords": [
     "weixin",
     "wechat",
@@ -74,7 +74,7 @@
   "name": "open-wechat-api-platform",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jack118104/wechat-platform.git"
+    "url": "git+https://github.com/dyyz1993/open-wechat-api-platform.git"
   },
   "scripts": {
     "test": "make test-all"
