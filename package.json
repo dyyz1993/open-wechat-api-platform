@@ -1,0 +1,83 @@
+{
+  "_from": "open-wechat-api-platform",
+  "_id": "open-wechat-api-platform@0.1.5",
+  "_inBundle": false,
+  "_integrity": "sha1-gQZ0aGmXdQb1ZTVt9KY/0vmGASY=",
+  "_location": "/open-wechat-api-platform",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "open-wechat-api-platform",
+    "name": "open-wechat-api-platform",
+    "escapedName": "open-wechat-api-platform",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/open-wechat-api-platform/-/open-wechat-api-platform-0.1.5.tgz",
+  "_shasum": "8106746869977506f565356df4a63fd2f9860126",
+  "_spec": "open-wechat-api-platform",
+  "_where": "F:\\工程项目\\nodeTool",
+  "author": {
+    "name": "Jackson Tian"
+  },
+  "bugs": {
+    "url": "https://github.com/jack118104/wechat-platform/issues"
+  },
+  "bundleDependencies": false,
+  "config": {
+    "travis-cov": {
+      "threshold": 98
+    }
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "formstream": ">=1.0.0",
+    "request": "^2.75.0",
+    "thunkify": "^2.0.0",
+    "urllib": "2.21.0"
+  },
+  "deprecated": false,
+  "description": "微信公共平台Node库 API",
+  "devDependencies": {
+    "coveralls": "*",
+    "expect.js": "*",
+    "istanbul": "*",
+    "mocha": "*",
+    "mocha-lcov-reporter": "*",
+    "muk": "*",
+    "rewire": "*",
+    "travis-cov": "*"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "files": [
+    "lib",
+    "index.js",
+    "platform"
+  ],
+  "homepage": "https://github.com/jack118104/wechat-platform#readme",
+  "keywords": [
+    "weixin",
+    "wechat",
+    "platform",
+    "tuzhan"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "open-wechat-api-platform",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jack118104/wechat-platform.git"
+  },
+  "scripts": {
+    "test": "make test-all"
+  },
+  "version": "0.1.5"
+}
